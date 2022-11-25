@@ -1,0 +1,12 @@
+
+
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ğÑ¸§úÿÿÿÿ8åí–ÛÈ0
+z
+java:S1488)"]Immediately return this expression instead of assigning it to the temporary variable "books".(íàûÅ8àüßÈ0
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ôô¡Óüÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Ô²«•
+T
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(¢İÈ¹ıÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ü“Å

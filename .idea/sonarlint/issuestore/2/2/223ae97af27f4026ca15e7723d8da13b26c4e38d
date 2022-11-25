@@ -1,0 +1,21 @@
+
+n
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Š½@
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(×˜ë
+n
+java:S2293J"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆ·Åi
+M
+java:S2589P"7Remove this expression which always evaluates to "true"(ªÄ€Á
+H
+java:S6126"2Replace this String concatenation with Text block.(Æ â
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(©şêÜúÿÿÿÿ
+Y
+java:S1155o">Use isEmpty() to check whether the collection is empty or not.(×¨¿´ùÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(°¼œöøÿÿÿÿ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ãòı
+N
+java:S1611~"3Remove the parentheses around the "entry" parameter(øØÆ§ıÿÿÿÿ
+G
+java:S1602~",Remove useless curly braces around statement(øØÆ§ıÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
